@@ -1,4 +1,4 @@
-*{
+ *{
     margin: 0;
     padding: 0;
     border: 0;
@@ -507,10 +507,11 @@ textarea {
     align-items: center;
     justify-content: center;
 }
-.google-map img a {
-    min-height: 300px;
-    width: 10px;
-} 
+iframe {
+    height: 300px;
+    width: 300px;
+}
+
 /* contact social media icons */
 .contact-social-media-icons {
     display: flex;
